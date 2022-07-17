@@ -1,0 +1,5 @@
+- https://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html
+- https://github.com/evincarofautumn/kitten
+- https://kittenlang.org/
+- https://www.plover.com/~mjd/misc/hbaker-archive/ForthStack.html
+- https://factorcode.org/
